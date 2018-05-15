@@ -1,8 +1,8 @@
 
 #infos
 Mario en ASCII et avec le SON !
-librairy FMOD pour le son.
+library FMOD pour le son.
 date du 05-2010.
 
-Pour controler mario, il faut utiliser les flèches directionnelles
+Pour contrôler mario, il faut utiliser les flèches directionnelles
 l'écran de chargement est bien réel. c'est le temps de charger la musique dans FMOD.
