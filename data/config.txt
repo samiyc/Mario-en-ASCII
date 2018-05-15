@@ -1,0 +1,49 @@
+
+########  FICHIER DE CONFIGURATION  ########
+
+### le son
+valeur-volume               : 50 / 250
+
+### pour les images
+caractere-invisible         : %
+
+valeur-hauteur-monstre1     : 2
+valeur-largeur-monstre1     : 5
+valeur-decal-top-monstre1   : 2
+
+valeur-hauteur-monstre2     : 3
+valeur-largeur-monstre2     : 6
+valeur-decal-top-monstre2   : 1
+
+valeur-hauteur-monstre3     : 3
+valeur-largeur-monstre3     : 7
+valeur-decal-top-monstre3   : 1
+
+
+### pour la carte
+caractere-sol               : #
+caractere-caisse            : c
+caractere-or                : o
+caractere-check             : f
+caractere-nuage             : n
+caractere-decor             : d
+caractere-monstre-1         : 1
+caractere-monstre-2         : 2
+caractere-monstre-3         : 3
+
+
+### pour mario
+valeur-jump-mario           : 15
+valeur-hauteur-mario        : 5
+valeur-largeur-mario        : 4
+
+
+### pour le score
+valeur-score-or             : 10
+valeur-score-monstre1       : 50
+valeur-score-monstre2       : 150
+valeur-score-monstre3       : 100
+
+
+
+
